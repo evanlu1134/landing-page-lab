@@ -26,6 +26,8 @@ header {
     width:40%;
     height:1076px;
     float: left;
+    font-size: 50px;
+    position: relative;
 }
 
 #section-2 {
@@ -43,4 +45,13 @@ header {
 
 .p1 {
     font-size: 25px;
+}
+
+#cap {
+   position: relative;
+   top:-30px;
+   left:700px;
+   float:right;
+   font-weight: bold;
+   color:#00ff00;
 }
