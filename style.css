@@ -24,7 +24,7 @@ header {
 #section-1 {
     background-color: #64B0A7;
     width:40%;
-    height:600px;
+    height:1076px;
     float: left;
 }
 
@@ -35,10 +35,10 @@ header {
     float: left;
 }
 
-.yoshi {
-    width: 40%;
-    height:200px;
-    
+.Yoshi {
+    width: 791px;
+    height: 30em;
+    float: right;
 }
 
 .p1 {
