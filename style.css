@@ -33,14 +33,15 @@ header {
 #section-2 {
     background-color: white;
     width: 60%;
-    height:600px;
+    height:100%;
     float: left;
 }
 
 .Yoshi {
-    width: 791px;
+    width: 80%;
     height: 30em;
     display: inline;
+    margin: center;
 }
 
 .p1 {
@@ -51,7 +52,7 @@ header {
 #cap {
    position: relative;
    top:-30px;
-   left:700px;
+   left:100px;
    font-weight: bold;
    color:#00ff00;
 }
